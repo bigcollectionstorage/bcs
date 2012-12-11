@@ -6,10 +6,9 @@ It uses a MySQL database to store the metadata and let you search in the collect
 This way it's easy to manage large amount of files and content.
 
 ## Creators ##
-Melroy van den Berg
-Jelle van Lith
-Mick Rienmeyer
-
+* Mick Rienmeyer
+* Jelle van Lith
+* Melroy van den Berg
 
 Installation
 ===
